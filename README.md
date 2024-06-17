@@ -1,6 +1,6 @@
 # yt_downloader
 # Download yt videos v1
-## This lil scripts allow you to donwload video or a playlist
+## This lil scripts allow you to download video or a playlist
 
 ## Process 
 ### First choose options v for single video and p for playlist
